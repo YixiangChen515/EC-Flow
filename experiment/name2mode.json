@@ -1,0 +1,13 @@
+{
+    "door-open-v2-goal-observable": "push",
+    "door-close-v2-goal-observable": "push",
+    "basketball-v2-goal-observable": "grasp",
+    "shelf-place-v2-goal-observable": "grasp",
+    "button-press-v2-goal-observable": "push",
+    "button-press-topdown-v2-goal-observable": "grasp",
+    "faucet-close-v2-goal-observable": "push",
+    "faucet-open-v2-goal-observable": "push",
+    "handle-press-v2-goal-observable": "grasp", 
+    "hammer-v2-goal-observable": "grasp",
+    "assembly-v2-goal-observable": "grasp"
+}
