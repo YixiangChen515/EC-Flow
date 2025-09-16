@@ -1,0 +1,7 @@
+transformers
+addict
+yapf
+timm
+numpy
+supervision>=0.22.0
+pycocotools
