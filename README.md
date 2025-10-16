@@ -105,10 +105,12 @@ If you have any questions about the code, please contact `yixiang.chen [AT] crip
 
 Please consider citing **EC-Flow** if it benefits your research:
 ```
-@article{chen2025ec,
-  title={EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow},
-  author={Chen, Yixiang and Li, Peiyan and Huang, Yan and Yang, Jiabing and Chen, Kehan and Wang, Liang},
-  journal={arXiv preprint arXiv:2507.06224},
-  year={2025}
+@InProceedings{Chen_2025_ICCV,
+    author    = {Chen, Yixiang and Li, Peiyan and Huang, Yan and Yang, Jiabing and Chen, Kehan and Wang, Liang},
+    title     = {EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {11958-11968}
 }
 ```
